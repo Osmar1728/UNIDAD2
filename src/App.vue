@@ -10,8 +10,8 @@ import { RouterLink, RouterView } from 'vue-router'
       <HelloWorld msg="You did it!" />
 
       <nav>
-        <RouterLink to="/usuarios">Usuarios</RouterLink>
         <RouterLink to="/registro">Registro</RouterLink>
+        <RouterLink to="/usuario">Usuario</RouterLink>
       </nav>
     </div>
   </header>
